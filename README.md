@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ColbyThom
+- 👋 Hi, I’m @ColbyThomas
 - 👀 I’m interested in football :)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on git
